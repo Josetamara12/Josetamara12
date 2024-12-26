@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Jose Luis👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-<!--
-**Josetamara12/Josetamara12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/josetamara12?style=social)](https://github.com/Josetamara12)
+## Sobre mi
 
-Here are some ideas to get you started:
+- ⭐ Github Star ⭐ 
+- 📲 Junior Software Developer
+- ✏️ Estudiante Carrera Tecnologica: Desarrollo de Software. 
+- 🏫 Institucion Universitaria Pascual Bravo.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Josetamara12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
