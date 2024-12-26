@@ -1,6 +1,6 @@
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; overflow: hidden;">
-  <img style="object-fit: cover; width: 100%; height: 100%;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<div align ="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
 
