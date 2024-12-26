@@ -3,6 +3,11 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
+<p align="center">
+  <a href="https://github.com/Josetamara12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
 [![GitHub followers](https://img.shields.io/github/followers/josetamara12?style=social)](https://github.com/Josetamara12)
 ## Sobre mi
 
