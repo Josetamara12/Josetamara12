@@ -3,7 +3,7 @@
 </div>
 
 <p align="left-center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenido/a+a+mi+Mundo🌍;Soy+estudiante📚+de+Tecnologia+en+Desarollo+de+Software;En+la+Insitucion+Universitaria+Pascual+Bravo🏫;Actualmente+Pasante+en+Cosmo+School-Comfama;Soy+un+Apasionado+por+la+Tecnologia+⚛️;La innovacion🦿+y+el+desarrollo+de+soluciones+que+generen+valor+y+confianza..<3;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenido/a+a+mi+Mundo🌍;Soy+estudiante📚+de+Tecnologia;En+Desarollo+de+Software;En+la+Institucion+Universitaria;Pascual+Bravo🏫;Actualmente+Pasante+en;Cosmo+School-Comfama;Soy+un+Apasionado+por+la+Tecnologia+⚛️;La innovacion🦿+y+el+desarrollo+de+soluciones;Que+generen+valor+y+confianza..<3;" alt="Typing SVG" /></a>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/josetamara12?style=social)](https://github.com/Josetamara12)
