@@ -13,12 +13,34 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/josetamara12?style=social)](https://github.com/Josetamara12)
-## Sobre mi
+## Sobre mi👨‍💻✨
 
-- ⭐ Github Star ⭐ 
-- 📲 Junior Software Developer
-- ✏️ Estudiante Carrera Tecnologica: Desarrollo de Software. 
-- 🏫 Institucion Universitaria Pascual Bravo.
+¡Hola! Soy Jose Luis Tamara Martinez, un entusiasta Desarrollador de Software Jr 🖥️🚀. Me apasiona diseñar y construir soluciones tecnológicas que impacten positivamente en las personas y las empresas 🌟.
+
+💻 Habilidades técnicas:
+🧑‍💻 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Next.js.
+🌐 Backend: PHP, Node.js, Express.js, Laravel, ASP.NET, C#.
+📊 Bases de Datos: SQL Server, MySQL.
+⚙️ Otros: Apps Script (Google).
+
+🌟 Habilidades blandas:
+🤝 Trabajo en equipo.
+💡 Resolución creativa de problemas.
+📈 Adaptabilidad y aprendizaje continuo.
+🗣️ Comunicación efectiva.
+⏱️ Gestión del tiempo y cumplimiento de objetivos.
+
+🚀 Áreas de interés:
+🌐 Desarrollo web moderno.
+🤖 Inteligencia Artificial.
+🔒 Seguridad informática.
+
+📌 Proyectos destacados:
+🎥 TamaraStream (UniTube): Plataforma educativa para compartir y buscar videos universitarios.
+📝 Gestión de Censos: Aplicación web con autenticación, operaciones CRUD y manejo dinámico de horarios.
+
+¡Siempre dispuesto a aprender y enfrentar nuevos retos tecnológicos! 🌱
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
