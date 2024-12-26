@@ -2,17 +2,9 @@
 <h1 align="center">Hola, soy Jose Luis👋</h1>
 </div>
 
-<div class="contenedor-imagen">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
-</div>
-
-<style>
-  .contenedor-imagen {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-  }
-</style>
+<a target="_blank" align="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenidos+a+mi+Mundo🌍.;Soy+estudiante📚+de+la+Tecnología;Desarrollo+de+Software,;en+la+Institucion+Universitaria🏫;Pascual+Bravo💙.;Actualmente+soy+pasante+en,;Cosmo+School,Comfama♥️;Apasionado+por...;Las+nuevas+Tecnologias,+⚛️;la innovacion🦿;Y+el+desarrollo+de+soluciones.;Que+generen+valor+y+confianza..☺️;" alt="Typing SVG" /></a>
