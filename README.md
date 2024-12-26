@@ -17,29 +17,29 @@
 
 ¡Hola! Soy Jose Luis Tamara Martinez, un entusiasta Desarrollador de Software Jr 🖥️🚀. Me apasiona diseñar y construir soluciones tecnológicas que impacten positivamente en las personas y las empresas 🌟.
 
-💻 Habilidades técnicas:
-🧑‍💻 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Next.js.
-🌐 Backend: PHP, Node.js, Express.js, Laravel, ASP.NET, C#.
-📊 Bases de Datos: SQL Server, MySQL.
-⚙️ Otros: Apps Script (Google).
+💻 Habilidades técnicas: <br>
+🧑‍💻 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Next.js.<br>
+🌐 Backend: PHP, Node.js, Express.js, Laravel, ASP.NET, C#.<br>
+📊 Bases de Datos: SQL Server, MySQL.<br>
+⚙️ Otros: Apps Script (Google).<br>
 
-🌟 Habilidades blandas:
-🤝 Trabajo en equipo.
-💡 Resolución creativa de problemas.
-📈 Adaptabilidad y aprendizaje continuo.
-🗣️ Comunicación efectiva.
-⏱️ Gestión del tiempo y cumplimiento de objetivos.
+🌟 Habilidades blandas:<br>
+🤝 Trabajo en equipo.<br>
+💡 Resolución creativa de problemas.<br>
+📈 Adaptabilidad y aprendizaje continuo.<br>
+🗣️ Comunicación efectiva.<br>
+⏱️ Gestión del tiempo y cumplimiento de objetivos.<br>
 
-🚀 Áreas de interés:
-🌐 Desarrollo web moderno.
-🤖 Inteligencia Artificial.
-🔒 Seguridad informática.
+🚀 Áreas de interés:<br>
+🌐 Desarrollo web moderno.<br>
+🤖 Inteligencia Artificial.<br>
+🔒 Seguridad informática.<br>
 
-📌 Proyectos destacados:
-🎥 TamaraStream (UniTube): Plataforma educativa para compartir y buscar videos universitarios.
-📝 Gestión de Censos: Aplicación web con autenticación, operaciones CRUD y manejo dinámico de horarios.
+📌 Proyectos destacados:<br>
+🎥 TamaraStream (UniTube): Plataforma educativa para compartir y buscar videos universitarios.<br>
+📝 Gestión de Censos: Aplicación web con autenticación, operaciones CRUD y manejo dinámico de horarios.<br>
 
-¡Siempre dispuesto a aprender y enfrentar nuevos retos tecnológicos! 🌱
+¡Siempre dispuesto a aprender y enfrentar nuevos retos tecnológicos! 🌱<br>
 
 <br>
 
