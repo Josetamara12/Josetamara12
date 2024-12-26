@@ -1,10 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Jose Luis👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
 
 <p align="center">
-  <a href="https://github.com/Josetamara12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/Josetamara12/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido/a+a+mi+mundo..Desarrollador;++;Front-End+Estudiante,;de+Desarollo+de+Software,;Institucion+universitaria+Pascual+Bravo,;Actualmente+Aprendiz/Investigador activo.,;me+encanta+aprender+cosas+nuevas..<3"></a>
 </p>
 
 
