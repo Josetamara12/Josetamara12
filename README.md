@@ -1,9 +1,6 @@
 
 ![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/ASK/blob/28411921ee8f932e339cff3cf15830aa865eeff4/assets/header.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
-
-
 <div align="center">
 <h1 align="center">Hola, soy Jose Luis👋</h1>
 </div>
