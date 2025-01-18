@@ -33,9 +33,6 @@
 🤖 Inteligencia Artificial.<br>
 🔒 Seguridad informática.<br>
 
-📌 Proyectos destacados:<br>
-🎥 TamaraStream (UniTube): Plataforma educativa para compartir y buscar videos universitarios.<br>
-📝 Gestión de Censos: Aplicación web con autenticación, operaciones CRUD y manejo dinámico de horarios.<br>
 
 ¡Siempre dispuesto a aprender y enfrentar nuevos retos tecnológicos! 🌱<br>
 
