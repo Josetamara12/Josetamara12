@@ -4,15 +4,15 @@
 <h1 align="center">¡Hola, soy Jose Luis 👋</h1>
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenidos+a+mi+repositorio+🌍;Desarrollador+Frontend+Junior+💻;Apasionado+por+la+tecnología+y+la+innovación+🚀;Siempre+dispuesto+a+aprender+y+superarme+💡;" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+repositorio+🌍;Desarrollador+Frontend+Junior+💻;Apasionado+por+la+tecnología+y+la+innovación+🚀;Siempre+dispuesto+a+aprender+y+superarme+💡"></a>
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/josetamara12?style=social)](https://github.com/Josetamara12)
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 ¡Hola! Soy **Jose Luis Tamara Martinez**, un apasionado **Desarrollador Frontend Junior** con experiencia práctica en soluciones institucionales y automatización de procesos.
 
