@@ -176,10 +176,10 @@ Siempre estoy en constante formación y me encanta crear soluciones que aporten 
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="40" height="40"/>
+  <a href="https://discord.com/users/jose12dev" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="40" height="40"/>
   </a>
-
+  
   <!-- Blog -->
   <a href="https://developmenttasks009500.blogspot.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/color/48/blogger.png" alt="Blog" width="40" height="40"/>
