@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Josetamara12">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=21C55D&center=true&vCenter=true&width=700&height=70&lines=¡Hola%2C+bienvenid%40s+a+mi+repositorio+💻;Soy+Jose+Luis+Tamara%2C+desarrollador+Frontend+🌐;Apasionado+por+el+aprendizaje+y+la+innovación+continua+📚;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=21C55D&center=true&vCenter=true&width=700&height=70&lines=¡Hola%2C+bienvenid%40s+a+mi+repositorio+💻;Soy+Jose+Luis+Tamara%2C+desarrollador+Frontend+🌐+Apasionado+por+el+aprendizaje+y+la+innovación+continua+📚;">
     </a>
 </p>
 
