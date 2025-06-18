@@ -5,8 +5,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos+a+mi+repositorio+🌍;Desarrollador+Frontend+Junior+💻;Apasionado+por+la+tecnología+y+la+innovación+🚀;Siempre+dispuesto+a+aprender+y+superarme+💡"></a>
+  <a href="https://github.com/Josetamara12">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=21C55D&center=true&vCenter=true&width=700&height=70&lines=¡Hola%2C+bienvenid%40s+a+mi+repositorio+💻;Soy+Jose+Luis+Tamara%2C+desarrollador+Frontend+🌐;Transformo+ideas+en+soluciones+digitales+eficientes+🚀;Especialista+en+React%2C+Next.js+y+automatización+con+Node.js+⚙️;Apasionado+por+el+aprendizaje+y+la+innovación+continua+📚;">
+    </a>
 </p>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/josetamara12?style=social)](https://github.com/Josetamara12)
 
