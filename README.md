@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre mí
 
 ¡Hola! Soy **Jose Luis Tamara Martinez**, un apasionado **Desarrollador Frontend Junior** con experiencia práctica en soluciones institucionales y automatización de procesos.
 
