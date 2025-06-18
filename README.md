@@ -155,22 +155,22 @@ Siempre estoy en constante formación y me encanta crear soluciones que aporten 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
-  <!-- LinkedIn (reemplaza el enlace con el correcto) -->
-  <a href="https://www.linkedin.com/in/jose..." target="_blank" style="margin: 0 10px;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jose12-dev/" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <!-- Gmail principal -->
+  <!-- Gmail Universitario -->
   <a href="mailto:jose.tamara426@pascualbravo.edu.co" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="40" height="40"/>
   </a>
 
-  <!-- Gmail alternativo -->
+  <!-- Gmail Personal -->
   <a href="mailto:j.tamara9508@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail Personal" width="40" height="40"/>
   </a>
 
-  <!-- Outlook / Hotmail -->
+  <!-- Outlook / Hotmail Personal-->
   <a href="mailto:j.tamara1208@hotmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="Outlook" width="40" height="40"/>
   </a>
